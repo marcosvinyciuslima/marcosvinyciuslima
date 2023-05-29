@@ -1,4 +1,4 @@
-### Olá, Sou o Marcos Vinycius, Analista e Desenvolvedor de Sistemas e Engenheiro de Software! : 👋
+### Olá, Sou o Marcos Vinycius, Analista e Desenvolvedor de Sistemas e Engenheiro de Software! 👋
 ##
 - 🔭 Hoje estou me aperfeiçoando em Full-Stack
 - 🌱 Estudando Linguagem de Programação em Python
@@ -21,7 +21,3 @@
   <a href="https://www.github.com/in/marcosvinyciuslima" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" targert="_blank"><a/>
   <a href="https://www.linkedin.com/in/marcos-vinycius-7902a0278" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-  
-##
-  
-![Snake animation](https://github.com/marcosvinyciuslima)
