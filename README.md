@@ -4,9 +4,6 @@
 - 🌱 Estudando Linguagem de Programação em Python
 - 😄 Pronouns: Ele/dele
 ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosvinyciuslima&show_icons=true&theme=transparent)
-](https://github.com/marcosvinyciuslima/github-readme-stats)
-
 <div style="display: aline_block"><br>
   <img aling="center" alt="Marcos-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img aling="center" alt="Marcos-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
